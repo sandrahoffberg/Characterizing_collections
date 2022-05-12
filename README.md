@@ -1,0 +1,2 @@
+# Characterizing_collections
+Characterizing germplasm collections of Amaranthus
